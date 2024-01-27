@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.1)  26 JAN 2024 21:02
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.1)  27 JAN 2024 20:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -572,24 +572,37 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `23vr008n.toc'.
 
+
+[1
+
+]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 73.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 73.
+ [2]
+File: ./Images/20240127180600.png Graphic file (type bmp)
+ <./Images/20240127180600.png>
+Overfull \hbox (167.914pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
 
-[1
-
-] [2] (./23vr008n.aux)
+[3] [4]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+56.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [5] [6] (./23vr008n.aux)
 Package rerunfilecheck Info: File `23vr008n.out' has not changed.
-(rerunfilecheck)             Checksum: 19C210192D281F0590BD575F560B0C4D;531.
+(rerunfilecheck)             Checksum: 41324EB6CA267A6F4A2BF563C7D43FD8;1593.
  ) 
 Here is how much of TeX's memory you used:
- 12332 strings out of 479777
- 189941 string characters out of 5885797
- 674198 words of memory out of 5000000
- 30446 multiletter control sequences out of 15000+600000
- 528218 words of font info for 103 fonts, out of 8000000 for 9000
+ 12395 strings out of 479777
+ 191188 string characters out of 5885797
+ 679198 words of memory out of 5000000
+ 30493 multiletter control sequences out of 15000+600000
+ 538481 words of font info for 111 fonts, out of 8000000 for 9000
  309 hyphenation exceptions out of 8191
- 68i,6n,76p,261b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,76p,328b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 23vr008n.dvi (2 pages, 8936 bytes).
+Output written on 23vr008n.dvi (6 pages, 30300 bytes).
