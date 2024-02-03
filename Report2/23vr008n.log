@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.1)  3 FEB 2024 19:24
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.1)  3 FEB 2024 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -610,40 +610,74 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout4 = `23vr008n.toc'.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 75.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 75.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
+File: ./Images/20240203195052.png Graphic file (type bmp)
+<./Images/20240203195052.png>
  [2]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-06.
+12.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
+) [3]
 File: ./Images/20240127180600.png Graphic file (type bmp)
 <./Images/20240127180600.png>
- [3] [4] [5]
+ [4] [5]
 File: ./Images/202401311838.jpg Graphic file (type bmp)
 <./Images/202401311838.jpg>
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-97.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+03.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [6] [7]
+) [6]
+File: ./Images/20240203205430.png Graphic file (type bmp)
+<./Images/20240203205430.png>
+ [7] [8]
 File: ./Images/20240203171846.png Graphic file (type bmp)
 <./Images/20240203171846.png>
- [8] [9] [10] [11]
-(./23vr008n.aux)
+ [9] [10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+[][]$\T1/lmtt/m/n/10 https : / / www . mlit . go . jp / report / press / kouku0
+1 _ hh _ 000110 .
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+[][]$\T1/lmtt/m/n/10 https : / / www . bousai . go . jp / kyoiku / kyokun / han
+shin _ awaji /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+[][]$\T1/lmtt/m/n/10 https : / / www . town . minamisanriku . miyagi . jp / ind
+ex . cfm / 6 ,[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+[][]$\T1/lmtt/m/n/10 https : / / www3 . nhk . or . jp / lnews / oita / 20230719
+ / 5070016389 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+[][]$\T1/lmtt/m/n/10 https : / / www3 . nhk . or . jp / news / html / 20240109 
+/
+ []
+
+[13] (./23vr008n.aux)
 Package rerunfilecheck Info: File `23vr008n.out' has not changed.
-(rerunfilecheck)             Checksum: 58E38FCA4BA2CA79536D50709CB1DAE9;1850.
+(rerunfilecheck)             Checksum: FE3D453B0AFA161B703C006C6BF76320;1753.
  ) 
 Here is how much of TeX's memory you used:
- 13757 strings out of 479777
- 217998 string characters out of 5885797
+ 13776 strings out of 479777
+ 218368 string characters out of 5885797
  701821 words of memory out of 5000000
- 31835 multiletter control sequences out of 15000+600000
+ 31852 multiletter control sequences out of 15000+600000
  538800 words of font info for 112 fonts, out of 8000000 for 9000
  309 hyphenation exceptions out of 8191
- 68i,8n,76p,347b,631s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,76p,445b,631s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 23vr008n.dvi (11 pages, 52440 bytes).
+Output written on 23vr008n.dvi (13 pages, 62232 bytes).
