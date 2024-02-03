@@ -20,21 +20,26 @@
 \contentsline {subsubsection}{\numberline {2.3.1}ドローンの分類と性能}{7}{subsubsection.2.3.1}%
 \contentsline {paragraph}{ドローンの法的分類}{7}{section*.13}%
 \contentsline {subsubsection}{\numberline {2.3.2}ドローン運用の法的制約}{8}{subsubsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.4}実験報告}{9}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.4}実験活動報告}{9}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}シングルエージェントでの簡単な物資輸送シミュレーション}{9}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}強化学習モデルと実機ドローンの連携を行うための技術調査}{9}{subsubsection.2.4.2}%
-\contentsline {paragraph}{PLATEAU環境と現実のデバイスとの連携}{9}{section*.15}%
-\contentsline {paragraph}{ドローンの遠隔操作方法}{9}{section*.16}%
-\contentsline {section}{\numberline {3}研究の進捗状況}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}現在までの進捗状況}{9}{subsection.3.1}%
-\contentsline {paragraph}{基礎学習・事例調査について}{10}{section*.18}%
-\contentsline {paragraph}{シミュレーションの内容具体化,実機ドローンでの飛行試験}{10}{section*.19}%
-\contentsline {subsection}{\numberline {3.2}今後取り組むべき事項}{10}{subsection.3.2}%
-\contentsline {paragraph}{シミュレーションの問題設定と内容具体化}{11}{section*.20}%
-\contentsline {paragraph}{実機ドローンと強化学習モデルの連携開発}{11}{section*.21}%
-\contentsline {section}{\numberline {4}今後の研究計画}{11}{section.4}%
-\contentsline {paragraph}{2024年 2月～3月}{12}{section*.22}%
-\contentsline {paragraph}{2024年 4月～5月}{12}{section*.23}%
-\contentsline {paragraph}{2024年 6月～7月}{12}{section*.24}%
-\contentsline {section}{\numberline {A}制作物}{12}{appendix.A}%
-\contentsline {section}{\numberline {B}参考}{12}{appendix.B}%
+\contentsline {paragraph}{単純な飛行制御}{10}{section*.15}%
+\contentsline {paragraph}{少し広めな空間でのターゲット追跡}{10}{section*.17}%
+\contentsline {paragraph}{単純なフィールドでの物資輸送}{11}{section*.19}%
+\contentsline {paragraph}{広めなフィールド \& ランダムで倉庫と避難所の位置が変わる環境での物資輸送}{12}{section*.21}%
+\contentsline {subsubsection}{\numberline {2.4.2}強化学習モデルと実機ドローンの連携を行うための技術調査}{13}{subsubsection.2.4.2}%
+\contentsline {paragraph}{PLATEAU環境と現実のデバイスとの連携}{14}{section*.23}%
+\contentsline {paragraph}{ドローンの遠隔操作方法}{14}{section*.25}%
+\contentsline {paragraph}{実現への課題・懸念事項}{15}{section*.27}%
+\contentsline {section}{\numberline {3}研究の進捗状況}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}現在までの進捗状況}{16}{subsection.3.1}%
+\contentsline {paragraph}{基礎学習・事例調査について}{16}{section*.29}%
+\contentsline {paragraph}{シミュレーションの内容具体化,実機ドローンでの飛行試験}{16}{section*.30}%
+\contentsline {subsection}{\numberline {3.2}今後取り組むべき事項}{17}{subsection.3.2}%
+\contentsline {paragraph}{シミュレーションの問題設定と内容具体化}{17}{section*.31}%
+\contentsline {paragraph}{実機ドローンと強化学習モデルの連携開発}{17}{section*.32}%
+\contentsline {section}{\numberline {4}今後の研究計画}{17}{section.4}%
+\contentsline {paragraph}{2024年 2月～3月}{18}{section*.33}%
+\contentsline {paragraph}{2024年 4月～5月}{18}{section*.34}%
+\contentsline {paragraph}{2024年 6月～7月}{18}{section*.35}%
+\contentsline {section}{\numberline {A}制作物}{18}{appendix.A}%
+\contentsline {section}{\numberline {B}参考}{19}{appendix.B}%
