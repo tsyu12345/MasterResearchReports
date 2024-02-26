@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.6.1)  25 FEB 2024 20:48
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2023.11.13)  26 FEB 2024 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -622,52 +622,57 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [3]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-65.
+File: ./Images/202402032208.png Graphic file (type bmp)
+<./Images/202402032208.png>
+File: ./Images/20240203221239.png Graphic file (type bmp)
+<./Images/20240203221239.png>
+ [4]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+02.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [4]
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
+)
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 [][]$\T1/lmtt/m/n/10 https : / / www . mlit . go . jp / report / press / kouku0
 1 _ hh _ 000110 .
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 [][]$\T1/lmtt/m/n/10 http : / / www . clearing . mod . go . jp / hakusho _ data
  / 2022 / html /
  []
 
 
-Overfull \hbox (79.99893pt too wide) in paragraph at lines 191--192
+Overfull \hbox (79.99893pt too wide) in paragraph at lines 228--229
 [][]$\T1/lmtt/m/n/10 https : / / drive . google . com / drive / folders / 11IgJ
 xB2wnGv301JxoCcFtRvTL7CAPbpB$[] 
  []
 
 
-Overfull \hbox (48.99902pt too wide) in paragraph at lines 196--197
+Overfull \hbox (48.99902pt too wide) in paragraph at lines 233--234
 [][]$\T1/lmtt/m/n/10 https : / / drive . google . com / file / d / 1g-[]kUgHJaK
 JOQFNeQN _ SwcILrmPwW75ZD /
  []
 
 
-Overfull \hbox (48.99902pt too wide) in paragraph at lines 201--202
+Overfull \hbox (48.99902pt too wide) in paragraph at lines 238--239
 [][]$\T1/lmtt/m/n/10 https : / / drive . google . com / file / d / 1Xjr7DCOFj7s
 h-[]UnN9JI _ Y7gjFOvZVeig /
  []
 
-[5] (./23vr008n.aux)
+[6] (./23vr008n.aux)
 Package rerunfilecheck Info: File `23vr008n.out' has not changed.
 (rerunfilecheck)             Checksum: D94D4FEF7F273D0ADCE0DEB314A438C4;830.
  ) 
 Here is how much of TeX's memory you used:
- 13745 strings out of 479777
- 217658 string characters out of 5885797
- 697821 words of memory out of 5000000
- 31826 multiletter control sequences out of 15000+600000
+ 13757 strings out of 478741
+ 217974 string characters out of 5860981
+ 700935 words of memory out of 5000000
+ 31928 multiletter control sequences out of 15000+600000
  538800 words of font info for 112 fonts, out of 8000000 for 9000
- 309 hyphenation exceptions out of 8191
- 68i,8n,76p,296b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 929 hyphenation exceptions out of 8191
+ 68i,8n,76p,296b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 23vr008n.dvi (5 pages, 25176 bytes).
+Output written on 23vr008n.dvi (6 pages, 27720 bytes).

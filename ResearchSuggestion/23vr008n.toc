@@ -10,6 +10,9 @@
 \contentsline {section}{\numberline {2}研究準備状況}{4}{section.2}%
 \contentsline {subsection}{\numberline {2.1}昨年度特別研究1,2の取り組み}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}本年度特別研究3,4への課題}{4}{subsection.2.2}%
-\contentsline {section}{\numberline {3}特別研究3の研究計画}{4}{section.3}%
+\contentsline {section}{\numberline {3}特別研究3の研究計画}{5}{section.3}%
+\contentsline {paragraph}{2024年 2月～3月}{5}{section*.7}%
+\contentsline {paragraph}{2024年 4月～5月}{5}{section*.8}%
+\contentsline {paragraph}{2024年 6月～7月}{5}{section*.9}%
 \contentsline {section}{\numberline {A}参考記事・文献}{5}{appendix.A}%
-\contentsline {section}{\numberline {B}開発リポジトリ、特別研究1,2の提出物URL}{5}{appendix.B}%
+\contentsline {section}{\numberline {B}開発リポジトリ、特別研究1,2の提出物URL}{6}{appendix.B}%
